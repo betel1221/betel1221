@@ -1,5 +1,9 @@
-<h2 align="left">Hi 👋! I'm Betelhem Hiluf</h2>
-<h3 align="left">A 3rd-year Software Engineering student at Debre Berhan University, Debre Birhan.</h3>
+<h2 align="left">Merhaba! 👋 I'm Betelhem Hiluf</h2>
+<h3 align="left">
+I'm a passionate Ethiopian Frontend Developer and a 3rd-year Software Engineering student at Debre Berhan University. 🚀
+💻 I am actively involved in the Techtonic Tribe club, where I serve as a Content Creator. 
+From a young age, I've been deeply fascinated by coding and tech content, 
+and I continue to pursue these passions in everything I do.</h3>
 
 ---
 
@@ -48,4 +52,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/BetelhemHiluf/BetelhemHiluf/output/snake.svg" alt="Snake animation" />
+
